@@ -66,4 +66,4 @@ print(f"Received {data!r}")
 ![Output](client.png)
 
 ## RESULT:
-The program is executed successfully
+The program to develop a simple webserver is executed successfully
